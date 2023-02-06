@@ -1,0 +1,40 @@
+........................................................
+.LAZY LOADING TECHNIQUE
+
+.MODULE CREATION-
+        ng g moduleName
+
+
+.LAZY LOADED MODULE CREATION-
+ 
+      commands-
+       ng g moduleName , --router moduleName , --module rootmoduleName
+
+
+
+.TO install json server.
+
+    npm i --save json-server     
+
+.To run json server
+    npx json-server --watch db.json --port 3000  
+
+
+.........................................................................
+ACCESS DATA FROM COMPONENT PATH
+
+
+   
+   ActivatedRoute  -class
+    params         -method
+
+ .......................................
+ To create pipe we use command-
+   ng g pipe filter  
+
+................................................
+BehaviourSubject in angular
+
+rxjs
+
+

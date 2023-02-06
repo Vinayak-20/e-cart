@@ -1,0 +1,105 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "productName": "SWISSTYLE",
+      "categoryId": 2,
+      "Description": "SWISSTYLE Analog Black Dial Men's Watch-SS-GR06612-BLK-CH ",
+      "price": 2200,
+      "Available": true,
+      "productImage": "https://i.postimg.cc/zf87MfqS/51oldet9su-L.jpg",
+      "Rating": 4.2,
+      "Reviews": 40,
+      "Warranty": 1
+    },
+    {
+      "id": 4,
+      "productName": "TIMEX Store",
+      "categoryId": 2,
+      "Description": "TIMEX Analog Men's Watch ",
+      "price": 2800,
+      "Available": true,
+      "productImage": "https://i.postimg.cc/9XbDtFkH/71-Kx6rgml-RS-UX679.jpgg",
+      "Rating": 4.5,
+      "Reviews": 70,
+      "Warranty": 2
+    },
+    {
+      "id": 5,
+      "productName": " Boult Audio ",
+      "categoryId": 3,
+      "Description": "Boult Audio ProBass Thunder Over-Ear Wireless Bluetooth Headphones with Mic, Headset with Long Battery Life ",
+      "price": "19000",
+      "Available": true,
+      "productImage": "https://i.postimg.cc/d3QG3SsH/71q-MTh-R1-L-SX679.jpg",
+      "Rating": 4.4,
+      "Reviews": 62,
+      "Warranty": 1
+    },
+    {
+      "id": 6,
+      "productName": "OnePlus",
+      "categoryId": 3,
+      "Description": "OnePlus Bullets Z2 Bluetooth Wireless in Ear Earphones with Mic, Bombastic Bass - 12.4 Mm Drivers, 10 Mins Charge - 20 Hrs Music, 30 Hrs Battery Life (Magico Black) ",
+      "price": 1000,
+      "Available": true,
+      "productImage": "https://i.postimg.cc/nLkzrVXx/51-Uhwa-QXCp-L-SX679.jpg",
+      "Rating": 4.3,
+      "Reviews": 40,
+      "Warranty": 1
+    },
+    {
+      "id": 7,
+      "productName": "Tommy Hilfiger",
+      "categoryId": 4,
+      "Description": "Tommy Hilfiger Men Shirt ",
+      "price": 1100,
+      "Available": true,
+      "productImage": "https://i.postimg.cc/FHKdSLQR/81-TJZNzkf-TL-UY879.jpg",
+      "Rating": 4.3,
+      "Reviews": 55,
+      "Warranty": 0
+    },
+    {
+      "id": 8,
+      "productName": "GLOOT",
+      "categoryId": 4,
+      "Description": "GLOOT by Nykaa Men's Active Lite Running and Gym T-Shirt with Sun Protection | Anti-Odour | Quick Dry | Round Neck Half Sleeves Tee ",
+      "price": 500,
+      "Available": true,
+      "productImage": "https://i.postimg.cc/NM8CHV1R/51-Bz2c5-Wi-NL-UX679.jpg",
+      "Rating": 4,
+      "Reviews": 20,
+      "Warranty": 0
+    },
+    {
+      "id": "9",
+      "productName": "Ladies Party Wear Dress",
+      "categoryId": "4",
+      "Description": "Geeta Fashion",
+      "price": "1300",
+      "Available": "true",
+      "productImage": "https://i.postimg.cc/6pX6dxZr/haldi-special-party-wear-dresses-500x500.webp",
+      "Rating": "3.9",
+      "Reviews": "36",
+      "Warranty": "6 months"
+    },
+    {
+      "id": "1",
+      "productName": "shoe",
+      "categoryId": "1",
+      "Description": "nike",
+      "price": "1000",
+      "Available": "true",
+      "productImage": "https://i.postimg.cc/Z5dPrzMd/5-best-running-shoes-under-1000-in-india-94821818.jpg",
+      "Rating": "4",
+      "Reviews": "43",
+      "Warranty": "1"
+    }
+  ]
+
+
+
+}
+
+

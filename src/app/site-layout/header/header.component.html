@@ -1,0 +1,80 @@
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-light" style="background-color: rgb(213, 213, 213);">
+    <div class="container px-4 px-lg-5">
+        <a class="navbar-brand" href="#!" style="color: white; font-size: xx-large;"  ><span style="color: black;">S </span> <span style="color:green ;">h</span> <span style="color:green;"> o </span> <span style="color: red;">P</span> <span style="color: red;"> p</span> <span style="color: yellow;"> i e </span></a>
+        <div div class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span
+                class="navbar-toggler-icon"></span>
+        </div>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
+                <nav class="navbar bg-body-tertiary">
+                    <div class="container-fluid">
+                        <form class="d-flex" role="search">
+                            <input (keyup)="search($event)" [(ngModel)]="searchterm" id="s1" name="se1"
+                                class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                            <!-- <button class="btn btn-outline-success" type="submit">Search</button> -->
+                        </form>
+
+                    </div>
+                </nav>
+                <li class="nav-item"><a class="nav-link" href="product/add-product" style="color: white;">Add products</a></li>
+
+            </ul>
+
+            
+            <form class="d-flex ">
+                <button class="btn btn-outline-light" type="submit">
+                    <i class="bi-cart-fill me-1"></i>
+                    Cart
+                    <span class="badge bg-dark text-white ms-1 rounded-pill">0</span>
+                </button>
+            </form>
+        </div>
+    </div>
+</nav>
+<!-- Header-->
+<header class="bg-dark py-5">
+    <div class="container px-4 px-lg-5 my-5">
+        <div class="text-center text-white">
+            <h1 class="display-4 fw-bolder">Shop in style</h1>
+            <p class="lead fw-normal text-white-50 mb-0">With this shop hompeage template</p>
+        </div>
+    </div>
+</header>
+
+<!-- <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="https://i.postimg.cc/Mp50BMz0/nike-shoes-snapdeal-offer.jpg" class="d-block w-100" alt=""
+                style="height: 400px;">
+        </div>
+        <div class="carousel-item" data-bs-interval="">
+            <img src="https://i.postimg.cc/x8sYH3FD/1617369686163.webp" class="d-block w-100" alt=""
+                style="height: 400px;">
+        </div>
+        <div class="carousel-item">
+            <img src="https://i.postimg.cc/HkNw3G7j/amazon-india-watch-sale-men-women-stylish-2016-banner.jpg"
+                class="d-block w-100" alt="..." style="height: 400px;">
+        </div>
+        <div class="carousel-item">
+            <img src="https://i.postimg.cc/t4MXTbsq/JBL-Headphone-CLP-Banner-27-07-2022-Mobile.webp" class="d-block w-100"
+                alt="..." style="height: 400px;">
+        </div>
+    </div>
+  
+
+
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+
+
+
+</div> -->
